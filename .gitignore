@@ -34,7 +34,8 @@ local.properties
 *.keystore
 !debug.keystore
 .kotlin/
-
+firebaseConfig.js
+.watchmanConfig
 # node.js
 #
 node_modules/
